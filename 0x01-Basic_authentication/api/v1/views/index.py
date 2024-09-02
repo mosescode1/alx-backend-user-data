@@ -16,7 +16,15 @@ def status() -> str:
 
 @app_views.route("/unauthorized/", strict_slashes=False)
 def not_authorized():
+    """Not Authourized route"""
     abort(401)
+
+
+@app_views.route("/forbidden/", strict_slashes=False)
+def forbidden():
+    """Forbidden route"""
+
+    abort(403)
 
 
 @app_views.route('/stats/', strict_slashes=False)
