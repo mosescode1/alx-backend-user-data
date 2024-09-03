@@ -39,4 +39,5 @@ class Auth:
 
 
 class BasicAuth(Auth):
+    """Basic authentication models"""
     pass
