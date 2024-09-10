@@ -1,0 +1,8 @@
+
+
+(Not all processes could be identified, non-owned process info
+ will not be shown, you would have to be root to see it all.)
+(Not all processes could be identified, non-owned process info
+ will not be shown, you would have to be root to see it all.)
+Tue Sep 10 2024 16:03:37:305 GMT+0100 (WAT) --  *** Error: Could not connect to local.browserstack.com due to Network issues. Please check your internet connection or if you are behind proxy please use our proxy options. For more details https://www.browserstack.com/local-testing#modifiers
+Tue Sep 10 2024 16:03:37:305 GMT+0100 (WAT) -- You can learn more about BrowserStack Binary flags by running ./BrowserStackLocal --help
